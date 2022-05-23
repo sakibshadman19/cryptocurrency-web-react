@@ -9,9 +9,9 @@ I used React, React Router, Axios, Api to build the project  .
 
 ### Api Link
 
-TrendingCoin: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false
+TrendingCoin: https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd
 
-CoinDetails:  `https://api.coingecko.com/api/v3/coins/${params.coinId}`
+CoinDetails:  https://api.coingecko.com/api/v3/coins/${params.coinId}
 
 
 ### Author Links  
