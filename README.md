@@ -25,7 +25,7 @@ CoinDetails:  https://api.coingecko.com/api/v3/coins/${params.coinId}
 
   - [Github](https://github.com/sakibshadman19)
   - [LinkedIn](https://www.linkedin.com/in/shadmansakib1/)
-  - [Facebook](https://www.facebook.com/shadman.sakibtanmoy)
+ 
   
 
 
